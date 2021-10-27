@@ -1,0 +1,22 @@
+•Se puede desarrollar y entregar en grupos de máximo 2 estudiantes.
+
+•Si se utiliza código encontrado y descargado desde alguna página se
+    debe hacer la referencia respectiva.
+
+•Para cada punto desarrollado, debe entregar un informe acompañado
+    del código fuente respectivo. Incluya en el informe, la explicación de
+    cómo abordó la solución, las imágenes del programa ejecutándose y las
+    salidas del mismo (gráficas, tablas, etc.)
+
+•Se calificará según los siguientes criterios:
+
+    •Con respecto al código en python, que el programa se ejecute sin
+    errores, cumpla los requisitos expuestos, que la codificación sea
+    limpia y debidamente documentada siguiendo el estilo de
+    codificación python.
+
+    •Con respecto al informe, que este bien estructurado, bien escrito y
+    presente los resultados de forma clara y correcta.
+
+
+    
